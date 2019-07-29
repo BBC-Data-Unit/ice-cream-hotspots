@@ -19,6 +19,10 @@ The chart was based on an analysis of both Food Standards Agency data from Engla
 
 * Bar chart: Mobile catering businesses with 'ice cream' in the title, by local authority (top 10)
 
+## Related repos
+
+The Data Unit also contributed an update to the same liveblog on [the hottest lines on the Tube](https://github.com/BBC-Data-Unit/tube-hottest-lines)
+
 ## Related stories
 
 The day after the BBC live update, the Mirror news website published *[Ice cream van capitals of UK revealed - see if your town makes the list](https://www.mirror.co.uk/news/uk-news/ice-cream-van-capitals-uk-18784887)*, adding a per capita figure and broadening the search to include *""mr whippy", "mister softee", "walls" and "soft serve", among others"* which identified over 1,700 establishments.
