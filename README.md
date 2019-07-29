@@ -17,7 +17,7 @@ The chart was based on an analysis of both Food Standards Agency data from Engla
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/ice-cream-hotspots/master/icecreamvan_barchart.png)
 
-Bar chart: Mobile catering businesses with 'ice cream' in the title, by local authority (top 10)
+* Bar chart: Mobile catering businesses with 'ice cream' in the title, by local authority (top 10)
 
 ## Related stories
 
